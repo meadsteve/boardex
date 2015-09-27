@@ -1,0 +1,2 @@
+defmodule Boardex do
+end
